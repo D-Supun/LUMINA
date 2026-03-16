@@ -50,3 +50,8 @@ React-Bank-App-Frontend-/
 ├─ package.json       # Project dependencies
 └─ README.md          # Project info
 
+
+<img width="1896" height="892" alt="Screenshot 2026-03-16 192732" src="https://github.com/user-attachments/assets/fd3f8662-256d-46aa-a60a-242d4bf3ba89" />
+<img width="1884" height="884" alt="Screenshot 2026-03-16 192805" src="https://github.com/user-attachments/assets/50dfd029-96fa-4171-b8bb-2f24051dc054" />
+<img width="1884" height="887" alt="Screenshot 2026-03-16 192847" src="https://github.com/user-attachments/assets/b978f6c3-17d1-4999-9a16-4556de311742" />
+
